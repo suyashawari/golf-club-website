@@ -30,6 +30,7 @@ gsap.to("#main",{
         scroller:"body",
         marker:true,
         start:"top -30%",
+        end:"top -31%",
         scrub:2
     }
 })
